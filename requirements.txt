@@ -1,4 +1,3 @@
-pip install scikit-learn
 pip install sklearn
 pip install streamlit
 pip install pandas
