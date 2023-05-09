@@ -1,7 +1,7 @@
+pip
 plotly
 scipy
 pandas
 Flask
 flask-cors
 streamlib
-/home/appuser/venv/bin/python -m pip install --upgrade pip
