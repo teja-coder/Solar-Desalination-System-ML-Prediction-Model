@@ -1,2 +1,6 @@
+plotly
+scipy
 pandas
-sklearn
+Flask
+flask-cors
+pyforest
